@@ -7,7 +7,7 @@
     "dist/"
   ],
   "engines: {
-  "node" : ">=12.0.0
+  "node" : ">=12.0.0"
   },
   "scripts": {
     "build": "grapesjs-cli build",
