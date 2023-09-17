@@ -6,6 +6,9 @@
   "files": [
     "dist/"
   ],
+  "engines: {
+  "node" : ">=12.0.0
+  },
   "scripts": {
     "build": "grapesjs-cli build",
     "start": "grapesjs-cli serve"
